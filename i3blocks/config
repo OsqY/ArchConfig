@@ -1,0 +1,3 @@
+[block name]
+command=path/to/command
+interval=60
